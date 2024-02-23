@@ -1,5 +1,6 @@
 import './App.css';
 import Card from './component/Card';
+import Footer from './component/Footer';
 import Navbar from './component/Navbar';
 import Slider from './component/Slider';
 
@@ -11,6 +12,7 @@ function App() {
      <Navbar/>
      <Slider/>
      <Card/>
+     <Footer/>
      </>
   );
 }
